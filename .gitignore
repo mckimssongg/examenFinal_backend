@@ -1,0 +1,9 @@
+# ignorar archivos de flask y python 
+__pycache__/
+instance/
+webapp.db
+
+# ignorar archivos de python
+*.pyc
+*.pyo
+*.pyd
